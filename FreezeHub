@@ -186,5 +186,6 @@ getgenv().TARGET_BRAINROTS = {
     ["Gold Gold Gold"] = true
     ["Noo my Gold"] = true
     ["Snailo Clovero"] = true
+    ["Leprechaun Lucky Block"] = true
 }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/9a91b3ba6fb71423853ec2f885c42d67.lua"))()
